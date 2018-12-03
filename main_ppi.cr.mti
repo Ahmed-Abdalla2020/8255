@@ -1,0 +1,9 @@
+{C:/Users/Ahmed/Desktop/New folder/ppi_module.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/New folder/ppi_module.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ppi__module
+-- Compiling module test__ppi
+
+Top level modules:
+	test__ppi
+
+} {} {}}
